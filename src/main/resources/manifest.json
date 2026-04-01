@@ -1,0 +1,15 @@
+{
+  "Group": "maksimovc",
+  "Name": "WorldHeightY320Plus",
+  "Version": "1.0.0",
+  "Description": "Removes the hardcoded 320-block world height limit. Patches 43 server classes to support worlds up to 32,736 blocks tall.",
+  "Authors": [
+    {
+      "Name": "maksimovc"
+    }
+  ],
+  "Website": "https://github.com/maksimovc/WorldHeightY320Plus",
+  "ServerVersion": "2026.03.26-89796e57b",
+  "DisabledByDefault": false,
+  "Main": "dev.thenexusgates.y320plus.Y320PlusTransformer"
+}
