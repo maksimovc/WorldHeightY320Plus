@@ -1,0 +1,20 @@
+# Build output
+.gradle/
+build/
+*.class
+out/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Internal planning docs (not needed on GitHub)
+MASTER_PLAN.md
+RELEASE.md
+
+# OS
+.DS_Store
+Thumbs.db
