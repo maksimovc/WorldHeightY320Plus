@@ -10,6 +10,9 @@
   ],
   "Website": "https://github.com/maksimovc/WorldHeightY320Plus",
   "ServerVersion": "2026.03.26-89796e57b",
+  "Dependencies": {},
+  "OptionalDependencies": {},
   "DisabledByDefault": false,
+  "IncludesAssetPack": false,
   "Main": "dev.thenexusgates.y320plus.Y320PlusTransformer"
 }
